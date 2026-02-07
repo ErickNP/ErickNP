@@ -26,7 +26,7 @@
 
 <br>
 
-<h2 align="center">Entre em contato!</h2>
+<h2>Entre em contato!</h2>
 
 <div>
   <a href="https://www.linkedin.com/in/ericknp">
