@@ -1,27 +1,32 @@
 <div>
-  <h1 align="center">Java Backend Developer <img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></h1> 
+  <h1 align="center">Desenvolvedor Backend Java<img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></h1> 
   
-  <p align="center">Olá! Eu sou um desenvolvedor Backend 😁 / Hello there! I'm a Backend developer 😁</p>
+  <p align="center">Olá, bem vindo(a) ao meu perfil!😁</p>
 
-  <p> Atualmente, estou trabalhando em projetos como a Startup VanGO, enquanto me aperfeiçoo em Java Spring Boot. Caso tenha interesse em conferir meu trabalho ou explorar os projetos em que estou envolvido, fique à vontade para visitar meus repositórios. Além disso, conecte-se comigo no LinkedIn, estou sempre aberto a feedbacks e interações com a comunidade! 💻</p>
+  <p> Atualmente desenvolvo projetos backend com foco em APIs REST utilizando Java e Spring Boot. Tenho experiência em projetos de gestão de transporte e aplicações REST, aplicando boas práticas de desenvolvimento backend. Caso tenha interesse em conferir meu trabalho ou explorar os projetos em que estou envolvido, fique à vontade para visitar meus repositórios. Além disso, conecte-se comigo no LinkedIn, estou sempre aberto a feedbacks e interações com a comunidade! 💻</p>
 
-  <p>I’m currently working on projects like the VanGO Startup while honing my skills in Java Spring Boot. If you’re interested in checking out my work or exploring the projects I’m involved in, feel free to visit my repositories. Also, connect with me on LinkedIn, I’m always open to feedback and community interactions! 💻</p>
-</div>
-  
 <br>
 
-##  Focado em Estudar / Focused on studying
+##  Backend 
 
-[![Study](https://skillicons.dev/icons?i=java,spring,docker)](https://skillicons.dev) 
+[![Backend](https://skillicons.dev/icons?i=java,spring,hibernate)](https://skillicons.dev) 
 
 
-## Tecnologias que utilizo / Technologies I use
+## Banco de Dados
 
-[![Tools](https://skillicons.dev/icons?i=eclipse,java,spring,postman,mysql,github,git,docker)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+## Ferramentas
+
+[![Tools](https://skillicons.dev/icons?i=git,gitHub,postman)](https://skillicons.dev)
+
+## DevOps
+
+[![DevOps](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 <br>  
 
-<h2 align="center"> Entre em contato / Get in touch </h2>
+<h2 align="center"> Entre em contato!
 
 <br>
 <div align="center">
