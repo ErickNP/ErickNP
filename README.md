@@ -24,18 +24,18 @@
 
 [![DevOps](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
-<br>  
-
-<h2 align="center"> Entre em contato!
-
 <br>
+
+<h2 align="center">Entre em contato!</h2>
+
 <div align="center">
-<a href="https://www.linkedin.com/in/ericknp">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/erick.nps?igsh=aWprb3Zxa3d0Z3pu">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/ericknp">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/erick.nps?igsh=aWprb3Zxa3d0Z3pu">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </div>
+
 
 
