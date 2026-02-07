@@ -1,7 +1,5 @@
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=ChakraPetch&size=55&duration=1000&pause=1000&color=900000FF&center=true&vCenter=true&width=800&lines=Ei!;Bem vindo ao meu Github!;Hey!;Welcome+to+my+GitHub!;" /></h1>
-
 <div>
-  <h2 align="center">Java Backend Developer <img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></h2> 
+  <h1 align="center">Java Backend Developer <img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></h1> 
   
   <p align="center">Olá! Eu sou um desenvolvedor Backend 😁 / Hello there! I'm a Backend developer 😁</p>
 
