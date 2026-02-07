@@ -18,7 +18,7 @@
 
 ## Ferramentas
 
-[![Tools](https://skillicons.dev/icons?i=git,gitHub,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
 ## DevOps
 
