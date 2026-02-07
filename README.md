@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Desenvolvedor Backend Java<img width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></h1> 
   
-  <p align="center">Olá, bem vindo(a) ao meu perfil!😁</p>
+  <p align="center">Olá, seja bem vindo(a) ao meu perfil!</p>
 
   <p> Atualmente desenvolvo projetos backend com foco em APIs REST utilizando Java e Spring Boot. Tenho experiência em projetos de gestão de transporte e aplicações REST, aplicando boas práticas de desenvolvimento backend. Caso tenha interesse em conferir meu trabalho ou explorar os projetos em que estou envolvido, fique à vontade para visitar meus repositórios. Além disso, conecte-se comigo no LinkedIn, estou sempre aberto a feedbacks e interações com a comunidade! 💻</p>
 
