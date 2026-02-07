@@ -28,7 +28,7 @@
 
 <h2 align="center">Entre em contato!</h2>
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/ericknp">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
