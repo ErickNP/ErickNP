@@ -17,7 +17,7 @@
 
 ## Tecnologias que utilizo / Technologies I use
 
-[![Tools](https://skillicons.dev/icons?i=eclipse,java,spring,postman,mysql,github,git)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=eclipse,java,spring,postman,mysql,github,git,docker)](https://skillicons.dev)
 
 <br>  
 
